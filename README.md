@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pumang</h1>
-<h3 align="center">A Problem Solver</h3>
+<h3 align="center">A Problem Solver and Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
