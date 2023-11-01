@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pumang</h1>
-<h3 align="center">A Problem Solver and Data Analyst</h3>
+<h3 align="center">A Web Developer and Problem Solver</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pumang18" alt="pumang18" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **Medicare Booking System**
 
-- 🌱 I’m currently learning **DSA and Data Science**
+- 🌱 I’m currently learning **DSA and NextJS**
 
 - 💬 Ask me about **C++, Java, Python, Node, Express, MongoDB**
 
